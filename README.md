@@ -1,5 +1,5 @@
 # 📍 Documentação: Permissões em Tempo de Execução
-### Localização
+### Tema do App: Localização
 - [Equipe](/TEAM.md)
 - [Canva](https://www.canva.com/design/DAGkXoPaNHw/YbWoKMzJ-gmUH0Z_LDZ57Q/view)
 
