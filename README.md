@@ -1,6 +1,6 @@
 # 📍 Documentação: Permissões em Tempo de Execução – Localização
 
-- [Equipe](https://github.com/Virtuosinh0/PermissaoTempoExecucao/blob/master/TEAM.md)
+- [Equipe](/TEAM.md)
 
 # https://www.canva.com/design/DAGkXoPaNHw/YbWoKMzJ-gmUH0Z_LDZ57Q/view
 ## 🧾 Objetivo  
