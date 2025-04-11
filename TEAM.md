@@ -46,9 +46,9 @@
 
 ---
 
-### **Apresentação (10 minutos)**   
-- **Nicolas :** Permissões em Tempo de Instalação
+### **Apresentação (10 minutos)** 
 - **Tainara :** Permissão 
+- **Nicolas :** Permissões em Tempo de Instalação
 - **Vitor :** Verificação
 - **Monique :** Fluxo de trabalho para solicitar permissões.
 - **Silvio :** Explicação do Código.
