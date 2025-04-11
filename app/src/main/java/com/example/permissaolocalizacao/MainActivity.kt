@@ -1,4 +1,4 @@
-package com.example.permissaotempoexecucao
+package com.example.permissaolocalizacao
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -20,7 +20,7 @@ class MainActivity : ComponentActivity() {
                     startDestination = "/home",
                 ) {
                 composable("/home") {
-                    LocationPermissionScreen() {
+                    LocationPermissionScreenA() {
 
                     }
                 }

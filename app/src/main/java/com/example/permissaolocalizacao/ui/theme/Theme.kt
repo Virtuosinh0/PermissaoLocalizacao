@@ -1,4 +1,4 @@
-package com.example.permissaotempoexecucao.ui.theme
+package com.example.permissaolocalizacao.ui.theme
 
 import android.app.Activity
 import android.os.Build

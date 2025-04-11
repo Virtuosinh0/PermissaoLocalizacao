@@ -1,4 +1,4 @@
-package com.example.permissaotempoexecucao.ui.theme
+package com.example.permissaolocalizacao.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
