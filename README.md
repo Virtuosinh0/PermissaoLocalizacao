@@ -1,8 +1,7 @@
 # 📍 Documentação: Permissões em Tempo de Execução – Localização
-
 - [Equipe](/TEAM.md)
+-[Canva](https://www.canva.com/design/DAGkXoPaNHw/YbWoKMzJ-gmUH0Z_LDZ57Q/view)
 
-# https://www.canva.com/design/DAGkXoPaNHw/YbWoKMzJ-gmUH0Z_LDZ57Q/view
 ## 🧾 Objetivo  
 Esta documentação descreve como funciona o fluxo de solicitação de permissão de localização em tempo de execução em apps Android, utilizando o exemplo da localização do usuário (latitude e longitude).
 
