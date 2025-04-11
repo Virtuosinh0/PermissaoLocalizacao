@@ -46,9 +46,10 @@
 
 ---
 
-### **Apresentação (10 minutos)**  
-- **Vitor (2 min):** Introdução ao tema e objetivo do projeto.  
-- **Nicolas (3 min):** Explicação do loop de permissões e contextualização.  
-- **Tainara (2 min):** Demonstração do app e funcionalidades.  
-- **Monique (2 min):** Comparação com outras ferramentas e casos de uso.  
-- **Vitor (1 min):** Conclusão e perguntas. 
+### **Apresentação (10 minutos)**   
+- **Nicolas :** Permissões em Tempo de Instalação
+- **Tainara :** Permissão 
+- **Vitor :** Verificação
+- **Monique :** Fluxo de trabalho para solicitar permissões.
+- **Silvio :** Explicação do Código.
+
